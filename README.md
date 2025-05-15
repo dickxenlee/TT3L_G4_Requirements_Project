@@ -10,6 +10,6 @@ Campus Ride-Sharing Platform with Parking System Integration
 - [CHIN WEI KANG] 
 
 ## SRS docs [update 1.1]
-- 1. introduction [Done] (purpose SRS, scope, defination)
-  2. Overall Description [Done] (Product perspective, Product function, User characteristics, Constraints, Limitation, Assumption Dependencies)
+- 1. introduction [Done]
+  2. Overall Description [Done]
 - Use case diagram [working on process]
