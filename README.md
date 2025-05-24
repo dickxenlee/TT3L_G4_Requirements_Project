@@ -9,7 +9,3 @@ Campus Ride-Sharing Platform with Parking System Integration
 - [CHEOK SHUN BING] - [243UC247NU]
 - [CHIN WEI KANG]  - [1211102952]
 
-## SRS docs [update 1.1]
-- 1. introduction [Done]
-  2. Overall Description [Done]
-- Use case diagram [Done]
