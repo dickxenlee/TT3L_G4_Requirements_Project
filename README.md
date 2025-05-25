@@ -1,8 +1,7 @@
 # TT3L_G4 Requirements Engineering Project
 
 ## Project Title
-Campus Ride-Sharing Platform with Parking System Integration
-
+Campus Accessibility Navigation System with Facilities and Event Integration 
 ## Team Members
 - [LEE DICK XEN] - [243UC247HK] - Team Leader
 - [YAM KAR YONG] - [243UC247NS]
